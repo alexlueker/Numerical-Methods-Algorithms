@@ -1,5 +1,5 @@
 # LU Factorization Algorithm
-
+Creates LU matrices, useful for solving systems of equations
 ## INPUTS
 * A - coefficient matrix
 
