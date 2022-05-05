@@ -1,8 +1,8 @@
 # Special Matrix
-
+Allows user to generate matrix using the condition listed below.
 ## INPUTS
-* n- number of rows
-* m- number of columns
+* n- number of rows.
+* m- number of columns.
 
 ## OUTPUTS
 ### Returns matrix with the following conditions:
