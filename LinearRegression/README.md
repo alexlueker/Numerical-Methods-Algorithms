@@ -1,5 +1,5 @@
 # Linear Regression Algorithm
-
+Allows user to find the linear regression line of a data set aswell as the R^2 value, signaling correlation between trend line and data set
 ## INPUTS
 * x- values of the data set
 * y- values of the data set
