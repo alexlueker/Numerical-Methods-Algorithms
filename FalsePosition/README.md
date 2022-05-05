@@ -1,5 +1,5 @@
 # False Position Algorithm
-
+Root finding method using an increment search
 ## INPUTS
 
 * func - the function being evaluated
